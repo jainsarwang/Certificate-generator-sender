@@ -1,0 +1,20 @@
+{
+	"event": "React & Node JS workshop",
+	"templates": {
+		"certificateFile": "reactNodeJSCert-participation.png",
+		"textFile": "reactNodeJSEmail.txt",
+		"htmlFile": "reactNodeJSEmail.php"
+	},
+	"templateId": "64f5b0471a948",
+	"font": ["Caveat-Regular.ttf", "ProductSans-Bold.woff"],
+	"fontSizes": [40, 15],
+	"textColors": [0, 0, 0],
+	"coordinates": [
+		[463, 265, "center"],
+		[243, 312, "center"]
+	],
+	"texts": [["Sarwang Jain"]],
+	"receiverName": ["Sarwang Jain"],
+	"emails": ["jainsarwang@gmail.com"],
+	"store": true
+}

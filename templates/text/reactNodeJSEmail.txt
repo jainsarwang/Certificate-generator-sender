@@ -1,0 +1,14 @@
+Dear {{name}},
+\n\n
+We at Google Developer Student Clubs UECU would like to extend our warmest congratulations to you for
+attending the workshop on React and NodeJs. We believe that the knowledge and skills you gained during
+this workshop shall help you in your development journey and will be instrumental in your growth as a
+developer. We would also like to express our heartfelt gratitude for your active participation and
+engagement in this workshop.
+\n\n
+Please find your certificate attached below. In case of any queries, feel free to contact us by
+reverting back to this email. We hope to see you at the future endeavours hosted by Google Developer
+Student Clubs. Once again, congratulations for attending the React and NodeJs workshop.
+\n\n\n\n
+Regards,\n
+Team GDSC UECU
